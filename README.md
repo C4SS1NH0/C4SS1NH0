@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cássio Moura
 
-🚀 **Full Stack Developer | Typescript | Javascript | Next.js | Node.js | UX-UI Design**  
+🚀 **Full Stack Developer | Javascript | Typescript | Next.js | Node.js | UX-UI Design**  
 🇧🇷 Brazil
 
 ---
