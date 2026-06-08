@@ -18,11 +18,17 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-💡 Desenvolvedor focado em criar aplicações modernas, rápidas e com experiências incríveis.  
-🔥 Apaixonado por tecnologia, design e performance.  
-🚀 Sempre buscando evoluir e construir projetos cada vez mais profissionais.
+🚀 Full Stack Developer focused on building modern, scalable and high-performance web applications.
+
+💻 I work mainly with **TypeScript, JavaScript, Next.js and Node.js**, developing end-to-end solutions with clean architecture and strong attention to detail.
+
+🎨 I also have a solid interest in **UI/UX Design**, aiming to create intuitive, visually appealing and user-centered experiences.
+
+⚡ Passionate about turning ideas into real products, always focusing on performance, usability and code quality.
+
+📈 Currently improving my skills, building real-world projects and pushing my limits as a developer.
 
 ---
 
